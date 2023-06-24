@@ -5,7 +5,7 @@ What is Building of Arthametics?
 
 > This is Arthamethic building but this Arthamethic bulding set only in two pillar first pillar is **Percentage** and second pillar is **Ratio** we are understand this two pillar then the king of Arthametic.
 
-![Arthametics Img](./Arthametics-Building.png)
+![Arthametics Img](./image/Arthametics-Building.png)
 
 ---
 
@@ -24,13 +24,13 @@ What is Fraction?
 
 Example => 
 
-![Fraction-Percentage](./fraction-pracentage.png)
+![Fraction-Percentage](./image/fraction-pracentage.png)
 
 20% = 20 by 100 = 1 by 5 but 1 by 5 is fraction.
 
 1 by 5 x 100  20% but 20% is percentage
 
-![Fraction-Percentage](./percentage-fraction.png)
+![Fraction-Percentage](./image/percentage-fraction.png)
 
 ---
 
@@ -38,17 +38,17 @@ Example =>
 
 >this is Percentage and Fraction table you learn this table then we can solve question easily this table is most imprtant 
 
-![Percentage-table](./Percebtage-table.png)
+![Percentage-table](./image/Percebtage-table.png)
 
 #### Example =>
 
 > question is 1 by 2 but 1 by 2 is fraction then answer 1 by 2 / by 100 then ans is 50 but what is 50 ? all freinds listen 50 is percentage beacuse 1 by 2 is fraction /  100 persent then ans give 50% you not understand this question then check top second image then this question you understanding esily. Next question is 1 by 3 but 1 by 3 is fraction then 3 / 100 = this ans is fraction=> 33 , 1 by 3 = and this ans is percentage  33.33%. Next question is 1 by 19  then 19 / 100 then ans is 5 into 5 by 9
 
-![percentage-question](./percentage-question.png)
+![percentage-question](./image/percentage-question.png)
 
 > question will give 1 by 5 this simple question 1 by 5 / 100 then ans is 20% but but second question give 3 by 5 then 5 / 100 = 20% but question is 3 by 5 then 20 + 20 + 20 ans is 60% . 3 by 5 /100 = 60%.Next question give 4 by 5 then 5 / 100 = 4 x 20% = 80% very easy question we use mind
 
-![table-use](./table-use.png)
+![table-use](./image/table-use.png)
 
 ## *table* 
 ### two table in Percentage 
